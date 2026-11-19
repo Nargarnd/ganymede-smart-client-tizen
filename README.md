@@ -10,7 +10,8 @@ A [Ganymede](https://github.com/Zibbp/ganymede) client for Samsung Smart TVs, pa
 1. On the TV, enable Developer Mode (Apps → type `12345`) and set your PC's IP as the host. Reboot the TV.
 2. Install TizenBrew on the TV with [TizenBrew Installer](https://github.com/reisxd/TizenBrew/blob/main/docs/README.md).
    Tizen 7.0+ TVs (2023 and newer) need a Samsung account certificate during the install.
-3. In TizenBrew, add the GitHub module `Nargarnd/ganymede-smart-client-tizen`.
+3. In TizenBrew, press the green button to open the module manager, choose **Add GitHub Module** and
+   enter `Nargarnd/ganymede-smart-client-tizen`.
 
 Requires Tizen 6.0 (2021) or newer.
 
